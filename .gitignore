@@ -1,0 +1,4 @@
+# tools/만들기.py로 만든 대시보드는 올리지 않는다(카피 v14 부록 A).
+tools/전문성 대시보드_*.html
+.DS_Store
+__pycache__/
